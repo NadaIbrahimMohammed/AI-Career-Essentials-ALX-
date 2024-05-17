@@ -1,0 +1,29 @@
+I use the creativity of an LLM to write the lyrics to our new anthem using Gemini then lyrics to music using Udio.
+
+websites:
+Gemini:https://gemini.google.com/
+Udio:https://www.udio.com/
+
+Prompt:"You are an established Egypt lyricist in hip-hop, renowned for your ability to weave deep cultural narratives into your music. Your task is to compose a rap track that exemplifies how artistic expression can intersect with technological themes.
+This song should motivate thousands of young students to envision a future shaped by Egypt’s youth leading the AI revolution without directly mentioning the technicalities of coding. The format of your work will include multiple verses, a chorus, and an optional bridge crafted to engage a live audience effectively.
+The tone should be inspirational, energetic, and visionary, maintaining the authentic rhythm and depth typical of impactful hip-hop music. You will perform this track to a large audience of students with a keen interest in AI, emphasizing the song’s role in educating and inspiring the next generation about the potential
+contributions of Egypt’s youth in this dynamic field."
+
+output:" 
+(Intro - Upbeat Egyptian instrumentation with a modern hip-hop beat)
+
+Verse 1
+
+Yo, mic check, one two, can the future hear me?
+Born on the Nile, where the pharaohs built their legacy
+But the Nile ain't the only river, innovation's in our blood
+From the pyramids that touched the sky, we aimin' for the good
+
+They say the future's digital, a world of screens and code
+But Egypt's youth got the vision, a story yet untold
+We ain't afraid of algorithms, the language of the times
+We'll rewrite the binary code, with verses and with rhymes
+
+"
+this is output of Udio :
+https://www.udio.com/songs/8XYs3DaaeuVQYCumPwVc3R
